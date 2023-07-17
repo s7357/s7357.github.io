@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pkgstore.dev/sitemap.xml
+Sitemap: https://flarus.cc/sitemap.xml
